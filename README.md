@@ -14,14 +14,26 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Plugins Installed
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Bootstrap
+2. FontAwesome
 
-## Running end-to-end tests
+Run `npm i bootstrap fontawesome`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Components
 
-## Further help
+1. Navbar
+2. Add-Contact
+3. Contact-manager
+4. Spinner
+5. View-contact
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Services
+
+1. Contact Service
+
+## Models
+
+1. IContact
+2. H
