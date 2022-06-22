@@ -36,4 +36,4 @@ Run `npm i bootstrap fontawesome`
 ## Models
 
 1. IContact
-2. H
+2. IGroup
